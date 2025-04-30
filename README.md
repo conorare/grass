@@ -162,5 +162,5 @@ MINING_MODE = True
 ### 5. Captcha Solving
 
 To register accounts, a captcha-solving service is required.  
-Captcha is not required in mining mode.
+Captcha is not required in mining mode. |\
 
