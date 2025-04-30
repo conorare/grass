@@ -1,3 +1,5 @@
+# IntelliJ project files
+# IntelliJ project files
 import os
 import sys
 from PySide6.QtWidgets import QApplication, QMainWindow, QFileDialog
